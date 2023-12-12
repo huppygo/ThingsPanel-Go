@@ -23,5 +23,5 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: thingspanel/thingspanel-go-arm64:v0.5.4
+        tags: huppygo/thingspanel-go-arm64:v0.5.4
         platforms: linux/arm64
